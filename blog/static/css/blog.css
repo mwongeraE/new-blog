@@ -3,12 +3,12 @@ h1 a {
     font-family: 'Lobster';
 }
 body {
-    padding-left: 15px;
+    padding-left: 0px;
 }
 .page-header {
-    background-color: #ff9400;
+    background-color: #00afd6;
     margin-top: 0;
-    padding: 20px 20px 20px 40px;
+    padding: 20px 20px 20px 480px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
