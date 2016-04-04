@@ -1,4 +1,4 @@
-#!"/home/mwongera/new blog/myvenv/bin/python"
+#!/home/mwongera/new-blog/myvenv/bin/python3.4
 
 # -*- coding: utf-8 -*-
 import re
